@@ -1,0 +1,871 @@
+0:00 ------------------------------------------------------------
+0:00 GameInit: Arsenal vs Newcastle United - Matchweek 19
+0:00 team1Startings: Aaron Ramsdale
+0:00 team1Startings: Ben White
+0:00 team1Startings: Gabriel Magalhães
+0:00 team1Startings: William Saliba
+0:00 team1Startings: Oleksandr Zinchenko
+0:00 team1Startings: Thomas Partey
+0:00 team1Startings: Martin Ødegaard
+0:00 team1Startings: Granit Xhaka
+0:00 team1Startings: Bukayo Saka
+0:00 team1Startings: Gabriel Martinelli
+0:00 team1Startings: Eddie Nketiah
+0:00 team2Startings: Nick Pope
+0:00 team2Startings: Kieran Trippier
+0:00 team2Startings: Sven Botman
+0:00 team2Startings: Fabian Schär
+0:00 team2Startings: Dan Burn
+0:00 team2Startings: Joe Willock
+0:00 team2Startings: Sean Longstaff
+0:00 team2Startings: Bruno Guimarães
+0:00 team2Startings: Joelinton
+0:00 team2Startings: Callum Wilson
+0:00 team2Startings: Miguel Almirón
+0:00 GameBegin:
+0:11 Event: Lineups are announced and players are warming up.
+0:11 Event: Kick Off! First Half begins.
+1:40 Event: Sean Longstaff (Newcastle United) wins a free kick in the attacking half.
+2:26 Event: Foul by Granit Xhaka (Arsenal).
+2:52 Event: Offside, Newcastle United. Kieran Trippier tries a through ball, but Fabian Schär is caught offside.
+3:20 Event: Attempt blocked. Gabriel Martinelli (Arsenal) right footed shot from the left side of the box is blocked. Assisted by Thomas Partey.
+4:44 Event: Attempt missed. Martin Ødegaard (Arsenal) left footed shot from the centre of the box is too high. Assisted by Gabriel Martinelli.
+5:05 Event: Attempt saved. Bukayo Saka (Arsenal) left footed shot from a difficult angle on the right is saved in the centre of the goal. Assisted by Martin Ødegaard.
+5:32 Event: Attempt blocked. Granit Xhaka (Arsenal) right footed shot from the centre of the box is blocked. Assisted by Gabriel Martinelli.
+6:33 Event: Attempt missed. Granit Xhaka (Arsenal) left footed shot from the left side of the six yard box is close, but misses to the left. Assisted by Gabriel Martinelli with a through ball.
+7:53 Event: Bruno Guimarães (Newcastle United) wins a free kick in the defensive half.
+8:18 Event: Foul by Granit Xhaka (Arsenal).
+8:14 Event: Foul by Thomas Partey (Arsenal).
+9:53 Event: Joe Willock (Newcastle United) wins a free kick in the attacking half.
+10:49 Event: Attempt saved. Callum Wilson (Newcastle United) right footed shot from outside the box is saved in the bottom left corner. Assisted by Fabian Schär.
+11:49 Event: Offside, Arsenal. Aaron Ramsdale tries a through ball, but Bukayo Saka is caught offside.
+11:09 Event: Corner,  Newcastle United. Conceded by Ben White.
+12:03 Event: Attempt missed. Fabian Schär (Newcastle United) header from the centre of the box misses to the left. Assisted by Kieran Trippier with a cross following a corner.
+13:31 Event: Delay in match  because of an injury Joelinton (Newcastle United).
+14:54 Event: Delay over. They are ready to continue.
+14:32 Event: William Saliba (Arsenal) wins a free kick in the defensive half.
+15:51 Event: Foul by Callum Wilson (Newcastle United).
+16:56 Event: Eddie Nketiah (Arsenal) wins a free kick in the attacking half.
+16:12 Event: Foul by Fabian Schär (Newcastle United).
+17:23 Event: Foul by William Saliba (Arsenal).
+18:45 Event: Callum Wilson (Newcastle United) wins a free kick on the left wing.
+19:37 Event: Foul by Bruno Guimarães (Newcastle United).
+19:06 Event: Eddie Nketiah (Arsenal) wins a free kick in the defensive half.
+20:22 Event: Yellow Card! Bruno Guimarães (Newcastle United) is shown the yellow card for a bad foul.
+21:53 Event: William Saliba (Arsenal) wins a free kick in the defensive half.
+22:26 Event: Foul by Callum Wilson (Newcastle United).
+22:17 Event: Yellow Card! Callum Wilson (Newcastle United) is shown the yellow card for a bad foul.
+23:36 Event: Eddie Nketiah (Arsenal) wins a free kick in the defensive half.
+24:22 Event: Foul by Dan Burn (Newcastle United).
+25:36 Event: Foul by Eddie Nketiah (Arsenal).
+25:39 Event: Fabian Schär (Newcastle United) wins a free kick in the defensive half.
+26:44 Event: Yellow Card! Eddie Nketiah (Arsenal) is shown the yellow card for a bad foul.
+27:03 Event: Martin Ødegaard (Arsenal) wins a free kick in the attacking half.
+28:31 Event: Foul by Joelinton (Newcastle United).
+28:18 Event: Attempt missed. Gabriel Magalhães (Arsenal) header from the centre of the box is close, but misses to the right. Assisted by Martin Ødegaard with a cross following a set piece situation.
+29:01 Event: Granit Xhaka (Arsenal) wins a free kick in the defensive half.
+30:19 Event: Foul by Miguel Almirón (Newcastle United).
+30:32 Event: Attempt blocked. Thomas Partey (Arsenal) right footed shot from outside the box is blocked. Assisted by Bukayo Saka.
+31:01 Event: Foul by Martin Ødegaard (Arsenal).
+32:43 Event: Bruno Guimarães (Newcastle United) wins a free kick in the defensive half.
+33:18 Event: Yellow Card! Martin Ødegaard (Arsenal) is shown the yellow card for a bad foul.
+33:53 Event: Gabriel Magalhães (Arsenal) wins a free kick in the defensive half.
+34:31 Event: Foul by Dan Burn (Newcastle United).
+35:13 Event: VAR Decision: No Penalty Newcastle United.
+36:00 Event: Delay over. They are ready to continue.
+36:23 Event: Foul by Granit Xhaka (Arsenal).
+37:43 Event: Fabian Schär (Newcastle United) wins a free kick in the attacking half.
+38:44 Event: Yellow Card! Granit Xhaka (Arsenal) is shown the yellow card for a bad foul.
+39:47 Event: Attempt blocked. Bruno Guimarães (Newcastle United) right footed shot from outside the box is blocked.
+39:47 Event: Offside, Newcastle United. Sean Longstaff tries a through ball, but Callum Wilson is caught offside.
+40:47 Event: Callum Wilson (Newcastle United) wins a free kick in the defensive half.
+41:54 Event: Foul by Thomas Partey (Arsenal).
+42:45 Event: Attempt blocked. Sean Longstaff (Newcastle United) right footed shot from outside the box is blocked. Assisted by Joelinton.
+42:41 Event: Corner,  Newcastle United. Conceded by William Saliba.
+43:58 Event: Attempt missed. Fabian Schär (Newcastle United) header from the left side of the six yard box misses to the right. Assisted by Kieran Trippier with a cross following a corner.
+44:44 Event: Attempt missed. Joelinton (Newcastle United) header from the right side of the six yard box is close, but misses the top right corner. Assisted by Fabian Schär following a corner.
+45:44 Event: Half-time First Half ends, Arsenal 0, Newcastle United 0.
+46:44 Event: Kick Off! Second Half begins Arsenal 0, Newcastle United 0.
+47:25 Event: Foul by Granit Xhaka (Arsenal).
+48:16 Event: Callum Wilson (Newcastle United) wins a free kick in the attacking half.
+48:14 Event: Attempt missed. Fabian Schär (Newcastle United) header from the left side of the box is just a bit too high. Assisted by Kieran Trippier with a cross following a set piece situation.
+49:39 Event: Attempt missed. Callum Wilson (Newcastle United) right footed shot from the centre of the box is high and wide to the left. Assisted by Miguel Almirón.
+50:08 Event: Ben White (Arsenal) wins a free kick in the defensive half.
+51:38 Event: Foul by Joe Willock (Newcastle United).
+51:45 Event: Delay in match   (Newcastle United).
+52:26 Event: Delay over. They are ready to continue.
+53:04 Event: Delay in match  because of an injury Joelinton (Newcastle United).
+53:33 Event: Delay over. They are ready to continue.
+54:27 Event: Offside, Newcastle United. Callum Wilson tries a through ball, but Miguel Almirón is caught offside.
+55:03 Event: Attempt missed. Martin Ødegaard (Arsenal) left footed shot from outside the box is too high. Assisted by Granit Xhaka.
+56:28 Event: William Saliba (Arsenal) wins a free kick in the defensive half.
+56:24 Event: Foul by Joe Willock (Newcastle United).
+57:29 Event: Bukayo Saka (Arsenal) wins a free kick on the right wing.
+58:12 Event: Foul by Joelinton (Newcastle United).
+58:24 Event: Yellow Card! Joelinton (Newcastle United) is shown the yellow card for a bad foul.
+59:35 Event: Yellow Card! Miguel Almirón (Newcastle United) is shown the yellow card.
+60:16 Event: Attempt missed. Oleksandr Zinchenko (Arsenal) right footed shot from the left side of the box misses to the right. Assisted by Granit Xhaka following a set piece situation.
+61:39 Event: Delay in match  because of an injury Bukayo Saka (Arsenal).
+61:54 Event: Delay over. They are ready to continue.
+62:46 Event: Attempt saved. Gabriel Martinelli (Arsenal) right footed shot from outside the box is saved in the bottom right corner. Assisted by Ben White.
+63:18 Event: Corner,  Arsenal. Conceded by Joelinton.
+64:45 Event: Miguel Almirón (Newcastle United) wins a free kick in the defensive half.
+64:39 Event: Foul by Oleksandr Zinchenko (Arsenal).
+65:11 Event: Substitution Substitution, Newcastle United. Chris Wood replaces Callum Wilson.
+66:42 Event: Substitution Substitution, Newcastle United. Jacob Murphy replaces Miguel Almirón.
+66:38 Event: Offside, Newcastle United. Kieran Trippier tries a through ball, but Chris Wood is caught offside.
+67:00 Event: Eddie Nketiah (Arsenal) wins a free kick in the defensive half.
+68:34 Event: Foul by Joe Willock (Newcastle United).
+69:52 Event: Attempt blocked. Gabriel Martinelli (Arsenal) left footed shot from the left side of the box is blocked. Assisted by Bukayo Saka.
+69:05 Event: Corner,  Arsenal. Conceded by Kieran Trippier.
+70:17 Event: Corner,  Newcastle United. Conceded by Oleksandr Zinchenko.
+71:36 Event: Gabriel Magalhães (Arsenal) wins a free kick in the defensive half.
+71:47 Event: Foul by Bruno Guimarães (Newcastle United).
+72:20 Event: Substitution Substitution, Arsenal. Takehiro Tomiyasu replaces Ben White.
+73:48 Event: Granit Xhaka (Arsenal) wins a free kick in the attacking half.
+74:18 Event: Foul by Bruno Guimarães (Newcastle United).
+74:55 Event: Corner,  Arsenal. Conceded by Fabian Schär.
+75:37 Event: Corner,  Arsenal. Conceded by Joe Willock.
+76:51 Event: Attempt missed. Gabriel Martinelli (Arsenal) header from the right side of the six yard box is close, but misses to the left. Assisted by Martin Ødegaard with a cross following a corner.
+77:29 Event: Corner,  Newcastle United. Conceded by Gabriel Martinelli.
+77:31 Event: Attempt blocked. Thomas Partey (Arsenal) right footed shot from outside the box is blocked. Assisted by Bukayo Saka.
+78:10 Event: Attempt missed. Gabriel Magalhães (Arsenal) left footed shot from outside the box is close, but misses to the right.
+79:26 Event: Delay in match  because of an injury Joe Willock (Newcastle United).
+79:38 Event: Substitution Substitution, Newcastle United. Allan Saint-Maximin replaces Joe Willock because of an injury.
+80:22 Event: Delay over. They are ready to continue.
+81:59 Event: Attempt saved. Eddie Nketiah (Arsenal) left footed shot from the left side of the box is saved in the centre of the goal.
+82:54 Event: Foul by Joelinton (Newcastle United).
+82:23 Event: Thomas Partey (Arsenal) wins a free kick in the attacking half.
+83:28 Event: Attempt saved. Eddie Nketiah (Arsenal) header from the centre of the box is saved in the centre of the goal. Assisted by Granit Xhaka.
+84:47 Event: Foul by Kieran Trippier (Newcastle United).
+84:15 Event: Granit Xhaka (Arsenal) wins a free kick in the attacking half.
+85:22 Event: Corner,  Newcastle United. Conceded by Bukayo Saka.
+86:07 Event: Yellow Card! Oleksandr Zinchenko (Arsenal) is shown the yellow card.
+87:47 Event: Yellow Card! Jamaal Lascelles (Newcastle United) is shown the yellow card.
+87:48 Event: Corner,  Arsenal. Conceded by Nick Pope.
+88:06 Event: Attempt missed. Bukayo Saka (Arsenal) left footed shot from outside the box is high and wide to the left following a corner.
+89:10 Event: Second Half ends, Arsenal 0, Newcastle United 0.
+93:10 Event: Full-time Match ends, Arsenal 0, Newcastle United 0.
+93:00 EndGame:
+93:00 team1Subs: Matt Turner
+93:00 team1Subs: Kieran Tierney
+93:00 team1Subs: Rob Holding
+93:00 team1Subs: Takehiro Tomiyasu
+93:00 team1Subs: Fábio Vieira
+93:00 team1Subs: Albert Sambi Lokonga
+93:00 team1Subs: Mohamed Elneny
+93:00 team1Subs: Marquinhos
+93:00 team1Subs: Nathan Butler-Oyedeji
+93:00 team2Subs: Martin Dúbravka
+93:00 team2Subs: Jamaal Lascelles
+93:00 team2Subs: Jamal Lewis
+93:00 team2Subs: Javier Manquillo
+93:00 team2Subs: Matt Ritchie
+93:00 team2Subs: Jacob Murphy
+93:00 team2Subs: Elliot Anderson
+93:00 team2Subs: Allan Saint-Maximin
+93:00 team2Subs: Chris Wood
+93:00 team1Stat: possession% 66.8
+93:00 team1Stat: shotsontarget 4
+93:00 team1Stat: shots 17
+93:00 team1Stat: touches 703
+93:00 team1Stat: passes 536
+93:00 team1Stat: tackels 13
+93:00 team1Stat: clearances 17
+93:00 team1Stat: corners 5
+93:00 team1Stat: offsides 1
+93:00 team1Stat: yellowcards 4
+93:00 team1Stat: foulconceded 10
+93:00 team2Stat: possession% 33.2
+93:00 team2Stat: shotsontarget 1
+93:00 team2Stat: shots 8
+93:00 team2Stat: touches 446
+93:00 team2Stat: passes 253
+93:00 team2Stat: tackels 23
+93:00 team2Stat: clearances 29
+93:00 team2Stat: corners 5
+93:00 team2Stat: offsides 4
+93:00 team2Stat: yellowcards 5
+93:00 team2Stat: foulconceded 16
+93:00 Exit
+93:00 ------------------------------------------------------------
+0:00 ------------------------------------------------------------
+0:00 GameInit: Everton vs Brighton and Hove Albion - Matchweek 19
+0:00 team1Startings: Jordan Pickford
+0:00 team1Startings: James Tarkowski
+0:00 team1Startings: Nathan Patterson
+0:00 team1Startings: Vitaliy Mykolenko
+0:00 team1Startings: Conor Coady
+0:00 team1Startings: Alex Iwobi
+0:00 team1Startings: Tom Davies
+0:00 team1Startings: Idrissa Gueye
+0:00 team1Startings: Dwight McNeil
+0:00 team1Startings: Dominic Calvert-Lewin
+0:00 team1Startings: Demarai Gray
+0:00 team2Startings: Robert Sánchez
+0:00 team2Startings: Lewis Dunk
+0:00 team2Startings: Levi Colwill
+0:00 team2Startings: Pervis Estupiñán
+0:00 team2Startings: Joël Veltman
+0:00 team2Startings: Solly March
+0:00 team2Startings: Pascal Groß
+0:00 team2Startings: Jeremy Sarmiento
+0:00 team2Startings: Kaoru Mitoma
+0:00 team2Startings: Moisés Caicedo
+0:00 team2Startings: Evan Ferguson
+0:00 GameBegin:
+0:07 Event: Lineups are announced and players are warming up.
+0:07 Event: Kick Off! First Half begins.
+1:13 Event: Foul by Solly March (Brighton and Hove Albion).
+2:18 Event: Tom Davies (Everton) wins a free kick in the defensive half.
+3:50 Event: Idrissa Gueye (Everton) wins a free kick in the attacking half.
+4:20 Event: Foul by Jeremy Sarmiento (Brighton and Hove Albion).
+5:13 Event: Attempt saved. Alex Iwobi (Everton) right footed shot from the left side of the box is saved in the centre of the goal. Assisted by Dominic Calvert-Lewin.
+6:15 Event: Corner,  Everton. Conceded by Robert Sánchez.
+7:49 Event: Attempt saved. Tom Davies (Everton) right footed shot from outside the box is saved in the centre of the goal. Assisted by Dominic Calvert-Lewin.
+8:35 Event: Attempt blocked. Moisés Caicedo (Brighton and Hove Albion) right footed shot from outside the box is blocked.
+9:39 Event: Attempt missed. Kaoru Mitoma (Brighton and Hove Albion) header from the left side of the six yard box is high and wide to the right. Assisted by Solly March with a cross.
+10:39 Event: Foul by James Tarkowski (Everton).
+11:00 Event: Jeremy Sarmiento (Brighton and Hove Albion) wins a free kick in the defensive half.
+12:03 Event: Foul by Dwight McNeil (Everton).
+13:26 Event: Pervis Estupiñán (Brighton and Hove Albion) wins a free kick in the attacking half.
+14:10 Event: Goal! Goal!  Everton 0, Brighton and Hove Albion 1. Kaoru Mitoma (Brighton and Hove Albion) right footed shot from the centre of the box to the centre of the goal. Assisted by Moisés Caicedo.
+15:32 Event: Corner,  Everton. Conceded by Joël Veltman.
+16:32 Event: Evan Ferguson (Brighton and Hove Albion) hits the left post with a left footed shot from the centre of the box.
+17:03 Event: Foul by James Tarkowski (Everton).
+18:09 Event: Evan Ferguson (Brighton and Hove Albion) wins a free kick in the defensive half.
+19:56 Event: Foul by Evan Ferguson (Brighton and Hove Albion).
+20:34 Event: James Tarkowski (Everton) wins a free kick in the defensive half.
+21:51 Event: Attempt missed. Evan Ferguson (Brighton and Hove Albion) right footed shot from outside the box is just a bit too high. Assisted by Moisés Caicedo.
+22:26 Event: Corner,  Brighton and Hove Albion. Conceded by Conor Coady.
+23:07 Event: Jeremy Sarmiento (Brighton and Hove Albion) wins a free kick in the attacking half.
+24:27 Event: Foul by Idrissa Gueye (Everton).
+25:08 Event: Attempt blocked. Solly March (Brighton and Hove Albion) left footed shot from outside the box is blocked. Assisted by Pascal Groß.
+26:42 Event: Attempt blocked. Pervis Estupiñán (Brighton and Hove Albion) left footed shot from outside the box is blocked.
+27:56 Event: Corner,  Everton. Conceded by Joël Veltman.
+28:56 Event: Attempt missed. James Tarkowski (Everton) header from the centre of the box misses to the right. Assisted by Demarai Gray with a cross following a corner.
+29:08 Event: Foul by Joël Veltman (Brighton and Hove Albion).
+30:23 Event: Demarai Gray (Everton) wins a free kick on the left wing.
+31:08 Event: Attempt missed. Dominic Calvert-Lewin (Everton) header from the centre of the box misses to the left. Assisted by Nathan Patterson with a cross.
+32:54 Event: Foul by Solly March (Brighton and Hove Albion).
+33:11 Event: Vitaliy Mykolenko (Everton) wins a free kick in the defensive half.
+34:30 Event: Corner,  Everton. Conceded by Lewis Dunk.
+35:50 Event: Attempt blocked. Dwight McNeil (Everton) left footed shot from the right side of the box is blocked.
+36:38 Event: Corner,  Everton. Conceded by Solly March.
+37:52 Event: Solly March (Brighton and Hove Albion) wins a free kick in the defensive half.
+38:47 Event: Foul by Vitaliy Mykolenko (Everton).
+39:18 Event: Idrissa Gueye (Everton) wins a free kick in the attacking half.
+40:26 Event: Foul by Evan Ferguson (Brighton and Hove Albion).
+41:49 Event: Yellow Card! Evan Ferguson (Brighton and Hove Albion) is shown the yellow card for a bad foul.
+42:39 Event: Idrissa Gueye (Everton) wins a free kick in the attacking half.
+43:38 Event: Foul by Jeremy Sarmiento (Brighton and Hove Albion).
+44:56 Event: Attempt saved. Demarai Gray (Everton) right footed shot from outside the box is saved in the bottom left corner. Assisted by Vitaliy Mykolenko.
+45:56 Event: Half-time First Half ends, Everton 0, Brighton and Hove Albion 1.
+46:56 Event: Kick Off! Second Half begins Everton 0, Brighton and Hove Albion 1.
+47:26 Event: Attempt missed. Evan Ferguson (Brighton and Hove Albion) right footed shot from outside the box is too high. Assisted by Pascal Groß.
+48:57 Event: Goal! Goal!  Everton 0, Brighton and Hove Albion 2. Evan Ferguson (Brighton and Hove Albion) right footed shot from the centre of the box to the top left corner.
+49:18 Event: Goal! Goal!  Everton 0, Brighton and Hove Albion 3. Solly March (Brighton and Hove Albion) left footed shot from the centre of the box to the bottom left corner. Assisted by Evan Ferguson.
+50:37 Event: Foul by Moisés Caicedo (Brighton and Hove Albion).
+51:03 Event: Demarai Gray (Everton) wins a free kick on the left wing.
+52:37 Event: Goal! Goal!  Everton 0, Brighton and Hove Albion 4. Pascal Groß (Brighton and Hove Albion) left footed shot from the centre of the box to the centre of the goal.
+53:43 Event: Substitution Substitution, Everton. Abdoulaye Doucouré replaces Dwight McNeil.
+54:23 Event: Substitution Substitution, Everton. Isaac Price replaces Tom Davies.
+55:21 Event: Offside, Everton. Conor Coady tries a through ball, but Alex Iwobi is caught offside.
+56:07 Event: Corner,  Brighton and Hove Albion. Conceded by Nathan Patterson.
+57:42 Event: Delay in match  because of an injury Nathan Patterson (Everton).
+57:49 Event: Substitution Substitution, Brighton and Hove Albion. Alexis Mac Allister replaces Jeremy Sarmiento.
+58:55 Event: Delay over. They are ready to continue.
+59:02 Event: Substitution Substitution, Everton. Séamus Coleman replaces Nathan Patterson because of an injury.
+60:50 Event: Substitution Substitution, Everton. Neal Maupay replaces Idrissa Gueye.
+61:45 Event: Attempt missed. Abdoulaye Doucouré (Everton) left footed shot from the left side of the box misses to the right. Assisted by Vitaliy Mykolenko.
+62:41 Event: Attempt saved. Solly March (Brighton and Hove Albion) right footed shot from the right side of the box is saved in the bottom right corner. Assisted by Pascal Groß.
+63:29 Event: Attempt missed. Alexis Mac Allister (Brighton and Hove Albion) right footed shot from outside the box is high and wide to the right. Assisted by Kaoru Mitoma.
+64:40 Event: Attempt missed. Demarai Gray (Everton) right footed shot from the centre of the box is too high. Assisted by Isaac Price with a cross.
+65:34 Event: Substitution Substitution, Brighton and Hove Albion. Tariq Lamptey replaces Joël Veltman.
+66:55 Event: Substitution Substitution, Brighton and Hove Albion. Julio Enciso replaces Evan Ferguson.
+67:31 Event: Attempt saved. Julio Enciso (Brighton and Hove Albion) right footed shot from outside the box is saved in the bottom left corner. Assisted by Pascal Groß.
+68:11 Event: Yellow Card! Isaac Price (Everton) is shown the yellow card for a bad foul.
+68:24 Event: Pervis Estupiñán (Brighton and Hove Albion) wins a free kick in the attacking half.
+69:19 Event: Foul by Alex Iwobi (Everton).
+70:35 Event: Yellow Card! Alex Iwobi (Everton) is shown the yellow card for a bad foul.
+71:29 Event: Attempt blocked. Alexis Mac Allister (Brighton and Hove Albion) right footed shot from outside the box is blocked. Assisted by Pascal Groß.
+72:18 Event: Attempt blocked. Solly March (Brighton and Hove Albion) left footed shot from the centre of the box is blocked. Assisted by Julio Enciso.
+73:29 Event: Substitution Substitution, Brighton and Hove Albion. Adam Lallana replaces Kaoru Mitoma.
+74:19 Event: Substitution Substitution, Brighton and Hove Albion. Andrew Moran replaces Solly March.
+75:12 Event: Attempt missed. Dominic Calvert-Lewin (Everton) right footed shot from outside the box misses to the left. Assisted by Alex Iwobi.
+76:25 Event: Attempt missed. Tariq Lamptey (Brighton and Hove Albion) right footed shot from the right side of the box is close, but misses to the right. Assisted by Pascal Groß.
+77:01 Event: Substitution Substitution, Everton. Ellis Simms replaces Dominic Calvert-Lewin.
+78:57 Event: Foul by Demarai Gray (Everton).
+79:58 Event: Pervis Estupiñán (Brighton and Hove Albion) wins a free kick in the defensive half.
+79:00 Event: Attempt saved. Julio Enciso (Brighton and Hove Albion) left footed shot from outside the box is saved in the centre of the goal. Assisted by Moisés Caicedo.
+80:20 Event: Attempt saved. Julio Enciso (Brighton and Hove Albion) left footed shot from the left side of the box is saved in the top left corner. Assisted by Pervis Estupiñán.
+81:54 Event: Foul by Abdoulaye Doucouré (Everton).
+82:24 Event: Alexis Mac Allister (Brighton and Hove Albion) wins a free kick in the attacking half.
+83:02 Event: Yellow Card! Abdoulaye Doucouré (Everton) is shown the yellow card for a bad foul.
+84:17 Event: Penalty Everton. Alex Iwobi draws a foul in the penalty area.
+85:00 Event: Penalty conceded by Robert Sánchez (Brighton and Hove Albion) after a foul in the penalty area.
+86:04 Event: Goal!  Everton 1, Brighton and Hove Albion 4. Demarai Gray (Everton) converts the penalty with a right footed shot to the bottom left corner.
+87:50 Event: Séamus Coleman (Everton) wins a free kick on the right wing.
+88:02 Event: Foul by Julio Enciso (Brighton and Hove Albion).
+89:08 Event: Second Half ends, Everton 1, Brighton and Hove Albion 4.
+94:08 Event: Full-time Match ends, Everton 1, Brighton and Hove Albion 4.
+94:00 EndGame:
+94:00 team1Subs: Asmir Begovic
+94:00 team1Subs: Yerry Mina
+94:00 team1Subs: Ben Godfrey
+94:00 team1Subs: Séamus Coleman
+94:00 team1Subs: Rúben Vinagre
+94:00 team1Subs: Abdoulaye Doucouré
+94:00 team1Subs: Isaac Price
+94:00 team1Subs: Neal Maupay
+94:00 team1Subs: Ellis Simms
+94:00 team2Subs: Jason Steele
+94:00 team2Subs: Tariq Lamptey
+94:00 team2Subs: Jan Paul van Hecke
+94:00 team2Subs: Alexis Mac Allister
+94:00 team2Subs: Adam Lallana
+94:00 team2Subs: Billy Gilmour
+94:00 team2Subs: Andrew Moran
+94:00 team2Subs: Leandro Trossard
+94:00 team2Subs: Julio Enciso
+94:00 team1Stat: possession% 48.9
+94:00 team1Stat: shotsontarget 4
+94:00 team1Stat: shots 10
+94:00 team1Stat: touches 663
+94:00 team1Stat: passes 478
+94:00 team1Stat: tackels 16
+94:00 team1Stat: clearances 15
+94:00 team1Stat: corners 5
+94:00 team1Stat: offsides 1
+94:00 team1Stat: yellowcards 3
+94:00 team1Stat: foulconceded 8
+94:00 team2Stat: possession% 51.1
+94:00 team2Stat: shotsontarget 8
+94:00 team2Stat: shots 19
+94:00 team2Stat: touches 676
+94:00 team2Stat: passes 512
+94:00 team2Stat: tackels 16
+94:00 team2Stat: clearances 13
+94:00 team2Stat: corners 2
+94:00 team2Stat: offsides 0
+94:00 team2Stat: yellowcards 1
+94:00 team2Stat: foulconceded 10
+94:00 Exit
+94:00 ------------------------------------------------------------
+0:00 ------------------------------------------------------------
+0:00 GameInit: Leicester City vs Fulham - Matchweek 19
+0:00 team1Startings: Danny Ward
+0:00 team1Startings: Wout Faes
+0:00 team1Startings: Daniel Amartey
+0:00 team1Startings: Timothy Castagne
+0:00 team1Startings: Luke Thomas
+0:00 team1Startings: Harvey Barnes
+0:00 team1Startings: Youri Tielemans
+0:00 team1Startings: Ayoze Pérez
+0:00 team1Startings: Wilfred Ndidi
+0:00 team1Startings: Boubakary Soumaré
+0:00 team1Startings: Jamie Vardy
+0:00 team2Startings: Bernd Leno
+0:00 team2Startings: Kenny Tete
+0:00 team2Startings: Tosin Adarabioyo
+0:00 team2Startings: Tim Ream
+0:00 team2Startings: Antonee Robinson
+0:00 team2Startings: Harrison Reed
+0:00 team2Startings: Bobby De Cordova-Reid
+0:00 team2Startings: Andreas Pereira
+0:00 team2Startings: Willian
+0:00 team2Startings: João Palhinha
+0:00 team2Startings: Aleksandar Mitrovic
+0:00 GameBegin:
+0:34 Event: Lineups are announced and players are warming up.
+0:34 Event: Kick Off! First Half begins.
+1:38 Event: Corner,  Fulham. Conceded by Timothy Castagne.
+2:51 Event: Attempt missed. Andreas Pereira (Fulham) right footed shot from the centre of the box is close, but misses to the right. Assisted by Antonee Robinson.
+3:27 Event: Attempt missed. Willian (Fulham) right footed shot from the centre of the box is high and wide to the right.
+4:40 Event: Foul by João Palhinha (Fulham).
+5:54 Event: Youri Tielemans (Leicester City) wins a free kick in the defensive half.
+6:58 Event: Attempt missed. Willian (Fulham) right footed shot from the left side of the box is close, but misses to the right. Assisted by Kenny Tete.
+7:06 Event: Delay in match  because of an injury Boubakary Soumaré (Leicester City).
+8:37 Event: Delay over. They are ready to continue.
+9:25 Event: Substitution Substitution, Leicester City. Marc Albrighton replaces Boubakary Soumaré because of an injury.
+10:13 Event: Attempt saved. Wilfred Ndidi (Leicester City) right footed shot from outside the box is saved in the top left corner. Assisted by Marc Albrighton.
+11:07 Event: Foul by Wilfred Ndidi (Leicester City).
+11:20 Event: Aleksandar Mitrovic (Fulham) wins a free kick in the defensive half.
+12:13 Event: Delay in match  because of an injury Aleksandar Mitrovic (Fulham).
+13:13 Event: Delay over. They are ready to continue.
+14:00 Event: Attempt blocked. Aleksandar Mitrovic (Fulham) header from the centre of the box is blocked. Assisted by Harrison Reed with a cross.
+15:49 Event: Corner,  Fulham. Conceded by Daniel Amartey.
+16:34 Event: Goal! Goal!  Leicester City 0, Fulham 1. Aleksandar Mitrovic (Fulham) left footed shot from the centre of the box to the bottom left corner. Assisted by Willian with a through ball.
+17:58 Event: Attempt missed. Aleksandar Mitrovic (Fulham) right footed shot from the centre of the box misses to the right. Assisted by Bobby De Cordova-Reid.
+18:18 Event: Attempt missed. João Palhinha (Fulham) right footed shot from outside the box misses to the left.
+19:44 Event: Corner,  Leicester City. Conceded by Tim Ream.
+20:24 Event: Attempt missed. Ayoze Pérez (Leicester City) right footed shot from the centre of the box is too high. Assisted by Youri Tielemans with a cross.
+21:53 Event: Delay in match  because of an injury Harrison Reed (Fulham).
+22:47 Event: Delay over. They are ready to continue.
+22:32 Event: Attempt blocked. Harvey Barnes (Leicester City) right footed shot from the left side of the box is blocked. Assisted by Ayoze Pérez.
+23:49 Event: Attempt saved. Jamie Vardy (Leicester City) header from the right side of the six yard box is saved in the bottom right corner.
+24:57 Event: Corner,  Leicester City. Conceded by Bernd Leno.
+25:44 Event: Attempt blocked. Youri Tielemans (Leicester City) right footed shot from outside the box is blocked.
+26:40 Event: Kenny Tete (Fulham) wins a free kick in the defensive half.
+27:42 Event: Foul by Harvey Barnes (Leicester City).
+28:31 Event: Aleksandar Mitrovic (Fulham) wins a free kick in the attacking half.
+29:58 Event: Foul by Wout Faes (Leicester City).
+30:50 Event: Foul by Bobby De Cordova-Reid (Fulham).
+31:01 Event: Ayoze Pérez (Leicester City) wins a free kick in the defensive half.
+32:04 Event: Ayoze Pérez (Leicester City) wins a free kick on the left wing.
+33:40 Event: Foul by Tosin Adarabioyo (Fulham).
+33:06 Event: Attempt missed. Timothy Castagne (Leicester City) header from the centre of the box is close, but misses to the left. Assisted by Marc Albrighton with a cross.
+34:32 Event: Andreas Pereira (Fulham) wins a free kick in the attacking half.
+35:46 Event: Foul by Marc Albrighton (Leicester City).
+36:48 Event: Corner,  Fulham. Conceded by Luke Thomas.
+37:20 Event: Attempt missed. Harrison Reed (Fulham) right footed shot from outside the box is high and wide to the right following a corner.
+38:02 Event: Foul by Bobby De Cordova-Reid (Fulham).
+39:31 Event: Wilfred Ndidi (Leicester City) wins a free kick in the defensive half.
+40:00 Event: Harrison Reed (Fulham) wins a free kick on the right wing.
+41:46 Event: Foul by Ayoze Pérez (Leicester City).
+42:57 Event: Attempt saved. Tosin Adarabioyo (Fulham) right footed shot from outside the box is saved in the top centre of the goal.
+43:29 Event: Tim Ream (Fulham) wins a free kick in the defensive half.
+44:58 Event: Foul by Jamie Vardy (Leicester City).
+45:58 Event: Half-time First Half ends, Leicester City 0, Fulham 1.
+46:58 Event: Kick Off! Second Half begins Leicester City 0, Fulham 1.
+47:26 Event: Kenny Tete (Fulham) wins a free kick in the defensive half.
+48:26 Event: Foul by Harvey Barnes (Leicester City).
+48:03 Event: Attempt blocked. Aleksandar Mitrovic (Fulham) right footed shot from outside the box is blocked. Assisted by Andreas Pereira.
+49:35 Event: Foul by Kenny Tete (Fulham).
+50:08 Event: Ayoze Pérez (Leicester City) wins a free kick in the defensive half.
+50:56 Event: Attempt saved. Harvey Barnes (Leicester City) right footed shot from the centre of the box is saved in the top centre of the goal. Assisted by Luke Thomas with a through ball.
+51:31 Event: Harrison Reed (Fulham) wins a free kick on the right wing.
+52:28 Event: Foul by Harvey Barnes (Leicester City).
+52:38 Event: Yellow Card! Tosin Adarabioyo (Fulham) is shown the yellow card.
+53:25 Event: Foul by Harvey Barnes (Leicester City).
+54:00 Event: Kenny Tete (Fulham) wins a free kick in the defensive half.
+54:02 Event: Attempt saved. Jamie Vardy (Leicester City) right footed shot from the centre of the box is saved in the bottom right corner. Assisted by Ayoze Pérez.
+55:20 Event: Corner,  Leicester City. Conceded by Bernd Leno.
+56:23 Event: Attempt missed. Youri Tielemans (Leicester City) left footed shot from outside the box is close, but misses to the left.
+57:29 Event: Substitution Substitution, Fulham. Tom Cairney replaces Andreas Pereira.
+57:41 Event: Youri Tielemans (Leicester City) wins a free kick on the right wing.
+58:33 Event: Foul by João Palhinha (Fulham).
+59:19 Event: Yellow Card! João Palhinha (Fulham) is shown the yellow card for a bad foul.
+59:37 Event: Aleksandar Mitrovic (Fulham) wins a free kick in the defensive half.
+60:31 Event: Foul by Wilfred Ndidi (Leicester City).
+61:40 Event: Yellow Card! Wilfred Ndidi (Leicester City) is shown the yellow card for a bad foul.
+61:02 Event: Foul by Tom Cairney (Fulham).
+62:49 Event: Ayoze Pérez (Leicester City) wins a free kick in the defensive half.
+63:18 Event: Yellow Card! Tom Cairney (Fulham) is shown the yellow card for a bad foul.
+63:57 Event: Delay in match  because of an injury Kenny Tete (Fulham).
+64:45 Event: Delay over. They are ready to continue.
+65:53 Event: Substitution Substitution, Fulham. Harry Wilson replaces Bobby De Cordova-Reid.
+65:50 Event: Ayoze Pérez (Leicester City) wins a free kick in the defensive half.
+66:35 Event: Foul by Kenny Tete (Fulham).
+67:39 Event: Yellow Card! Kenny Tete (Fulham) is shown the yellow card for a bad foul.
+68:54 Event: Corner,  Leicester City. Conceded by Kenny Tete.
+68:57 Event: Substitution Substitution, Leicester City. Nampalys Mendy replaces Wilfred Ndidi.
+69:09 Event: Substitution Substitution, Leicester City. Kelechi Iheanacho replaces Luke Thomas.
+70:11 Event: Tom Cairney (Fulham) wins a free kick in the defensive half.
+70:31 Event: Foul by Timothy Castagne (Leicester City).
+71:33 Event: Yellow Card! Timothy Castagne (Leicester City) is shown the yellow card for a bad foul.
+72:34 Event: Offside, Fulham. Kenny Tete tries a through ball, but Aleksandar Mitrovic is caught offside.
+72:41 Event: Attempt saved. Ayoze Pérez (Leicester City) right footed shot from outside the box is saved in the bottom left corner. Assisted by Kelechi Iheanacho.
+73:54 Event: Corner,  Leicester City. Conceded by Bernd Leno.
+74:01 Event: Foul by Aleksandar Mitrovic (Fulham).
+74:09 Event: Harvey Barnes (Leicester City) wins a free kick in the attacking half.
+75:41 Event: Yellow Card! Aleksandar Mitrovic (Fulham) is shown the yellow card for a bad foul.
+76:16 Event: Corner,  Leicester City. Conceded by Aleksandar Mitrovic.
+76:53 Event: Attempt blocked. Youri Tielemans (Leicester City) right footed shot from outside the box is blocked.
+77:35 Event: Youri Tielemans (Leicester City) hits the bar with a right footed shot from outside the box following a corner.
+78:07 Event: Attempt saved. Ayoze Pérez (Leicester City) right footed shot from the left side of the box is saved in the bottom left corner. Assisted by Marc Albrighton.
+79:11 Event: Substitution Substitution, Fulham. Issa Diop replaces Willian.
+79:36 Event: Attempt missed. Youri Tielemans (Leicester City) left footed shot from outside the box is close, but misses to the right. Assisted by Daniel Amartey.
+80:41 Event: Delay in match  because of an injury Antonee Robinson (Fulham).
+81:35 Event: Delay over. They are ready to continue.
+81:10 Event: Delay in match  because of an injury Harry Wilson (Fulham).
+82:06 Event: Delay over. They are ready to continue.
+83:53 Event: Attempt missed. Harry Wilson (Fulham) left footed shot from the centre of the box is close, but misses to the right. Assisted by Tom Cairney with a through ball following a fast break.
+83:33 Event: Wout Faes (Leicester City) wins a free kick in the defensive half.
+84:57 Event: Foul by Aleksandar Mitrovic (Fulham).
+85:45 Event: Foul by Harvey Barnes (Leicester City).
+85:13 Event: Kenny Tete (Fulham) wins a free kick in the defensive half.
+86:41 Event: Foul by Harry Wilson (Fulham).
+86:49 Event: Youri Tielemans (Leicester City) wins a free kick in the defensive half.
+86:46 Event: Attempt missed. Ayoze Pérez (Leicester City) left footed shot from the centre of the box is high and wide to the left. Assisted by Jamie Vardy.
+86:12 Event: Yellow Card! Bernd Leno (Fulham) is shown the yellow card.
+86:29 Event: Second Half ends, Leicester City 0, Fulham 1.
+86:29 Event: Full-time Match ends, Leicester City 0, Fulham 1.
+86:00 EndGame:
+86:00 team1Subs: Daniel Iversen
+86:00 team1Subs: Çaglar Söyüncü
+86:00 team1Subs: Jannik Vestergaard
+86:00 team1Subs: Marc Albrighton
+86:00 team1Subs: Nampalys Mendy
+86:00 team1Subs: Lewis Brunt
+86:00 team1Subs: Kasey McAteer
+86:00 team1Subs: Kelechi Iheanacho
+86:00 team2Subs: Marek Rodák
+86:00 team2Subs: Layvin Kurzawa
+86:00 team2Subs: Issa Diop
+86:00 team2Subs: Harry Wilson
+86:00 team2Subs: Tom Cairney
+86:00 team2Subs: Nathaniel Chalobah
+86:00 team2Subs: Dan James
+86:00 team2Subs: Manor Solomon
+86:00 team2Subs: Carlos Vinícius
+86:00 team1Stat: possession% 61.2
+86:00 team1Stat: shotsontarget 6
+86:00 team1Stat: shots 15
+86:00 team1Stat: touches 732
+86:00 team1Stat: passes 551
+86:00 team1Stat: tackels 17
+86:00 team1Stat: clearances 15
+86:00 team1Stat: corners 6
+86:00 team1Stat: offsides 0
+86:00 team1Stat: yellowcards 2
+86:00 team1Stat: foulconceded 12
+86:00 team2Stat: possession% 38.8
+86:00 team2Stat: shotsontarget 2
+86:00 team2Stat: shots 11
+86:00 team2Stat: touches 566
+86:00 team2Stat: passes 348
+86:00 team2Stat: tackels 13
+86:00 team2Stat: clearances 32
+86:00 team2Stat: corners 3
+86:00 team2Stat: offsides 1
+86:00 team2Stat: yellowcards 6
+86:00 team2Stat: foulconceded 11
+86:00 Exit
+86:00 ------------------------------------------------------------
+0:00 ------------------------------------------------------------
+0:00 GameInit: Manchester United vs Bournemouth - Matchweek 19
+0:00 team1Startings: David de Gea
+0:00 team1Startings: Victor Lindelöf
+0:00 team1Startings: Harry Maguire
+0:00 team1Startings: Luke Shaw
+0:00 team1Startings: Aaron Wan-Bissaka
+0:00 team1Startings: Bruno Fernandes
+0:00 team1Startings: Marcus Rashford
+0:00 team1Startings: Christian Eriksen
+0:00 team1Startings: Casemiro
+0:00 team1Startings: Donny van de Beek
+0:00 team1Startings: Anthony Martial
+0:00 team2Startings: Mark Travers
+0:00 team2Startings: Lloyd Kelly
+0:00 team2Startings: Chris Mepham
+0:00 team2Startings: Adam Smith
+0:00 team2Startings: Marcos Senesi
+0:00 team2Startings: Lewis Cook
+0:00 team2Startings: Jefferson Lerma
+0:00 team2Startings: Ryan Christie
+0:00 team2Startings: Jaidon Anthony
+0:00 team2Startings: Dominic Solanke
+0:00 team2Startings: Philip Billing
+0:00 GameBegin:
+0:23 Event: Lineups are announced and players are warming up.
+0:23 Event: Kick Off! First Half begins.
+2:56 Event: Luke Shaw (Manchester United) wins a free kick in the defensive half.
+3:00 Event: Foul by Lewis Cook (Bournemouth).
+4:16 Event: Lewis Cook (Bournemouth) wins a free kick in the defensive half.
+5:18 Event: Foul by Anthony Martial (Manchester United).
+6:19 Event: Foul by Donny van de Beek (Manchester United).
+7:04 Event: Jefferson Lerma (Bournemouth) wins a free kick in the defensive half.
+8:52 Event: Ryan Christie (Bournemouth) wins a free kick in the defensive half.
+9:14 Event: Foul by Luke Shaw (Manchester United).
+10:07 Event: Ryan Christie (Bournemouth) wins a free kick in the defensive half.
+11:14 Event: Foul by Anthony Martial (Manchester United).
+12:49 Event: Attempt missed. Anthony Martial (Manchester United) header from the centre of the box is close, but misses to the left. Assisted by Luke Shaw with a cross.
+13:39 Event: Foul by Donny van de Beek (Manchester United).
+14:58 Event: Adam Smith (Bournemouth) wins a free kick in the defensive half.
+15:17 Event: Philip Billing (Bournemouth) wins a free kick on the left wing.
+16:50 Event: Foul by Casemiro (Manchester United).
+17:59 Event: Offside, Bournemouth. Marcos Senesi tries a through ball, but Jaidon Anthony is caught offside.
+18:03 Event: Marcus Rashford (Manchester United) wins a free kick on the left wing.
+19:42 Event: Foul by Adam Smith (Bournemouth).
+20:45 Event: Goal! Goal!  Manchester United 1, Bournemouth 0. Casemiro (Manchester United) right footed shot from the centre of the box to the top left corner. Assisted by Christian Eriksen with a cross   following a set piece situation.
+21:12 Event: Foul by Casemiro (Manchester United).
+23:34 Event: Ryan Christie (Bournemouth) wins a free kick in the attacking half.
+24:43 Event: Attempt blocked. Philip Billing (Bournemouth) left footed shot from outside the box is blocked.
+25:52 Event: Corner,  Bournemouth. Conceded by Donny van de Beek.
+26:20 Event: Attempt missed. Dominic Solanke (Bournemouth) header from the centre of the box is high and wide to the left. Assisted by Lewis Cook with a cross following a corner.
+27:22 Event: Offside, Bournemouth. Lewis Cook tries a through ball, but Jaidon Anthony is caught offside.
+28:38 Event: Foul by Casemiro (Manchester United).
+29:39 Event: Philip Billing (Bournemouth) wins a free kick in the defensive half.
+30:49 Event: Corner,  Bournemouth. Conceded by Harry Maguire.
+31:08 Event: Attempt missed. Casemiro (Manchester United) right footed shot from outside the box misses to the right. Assisted by Aaron Wan-Bissaka.
+32:15 Event: Attempt blocked. Bruno Fernandes (Manchester United) right footed shot from outside the box is blocked. Assisted by Donny van de Beek.
+33:20 Event: Foul by Philip Billing (Bournemouth).
+34:51 Event: Casemiro (Manchester United) wins a free kick in the attacking half.
+35:54 Event: Yellow Card! Philip Billing (Bournemouth) is shown the yellow card for a bad foul.
+36:34 Event: Attempt blocked. Christian Eriksen (Manchester United) right footed shot from outside the box is blocked.
+37:19 Event: Corner,  Manchester United. Conceded by Marcos Senesi.
+38:33 Event: Corner,  Bournemouth. Conceded by Victor Lindelöf.
+39:18 Event: Donny van de Beek (Manchester United) wins a free kick in the defensive half.
+40:48 Event: Foul by Marcos Senesi (Bournemouth).
+41:42 Event: Delay in match  because of an injury Donny van de Beek (Manchester United).
+42:29 Event: Delay over. They are ready to continue.
+43:07 Event: Substitution Substitution, Manchester United. Alejandro Garnacho replaces Donny van de Beek because of an injury.
+45:07 Event: Half-time First Half ends, Manchester United 1, Bournemouth 0.
+46:07 Event: Kick Off! Second Half begins Manchester United 1, Bournemouth 0.
+47:21 Event: Alejandro Garnacho (Manchester United) wins a free kick in the attacking half.
+48:13 Event: Foul by Adam Smith (Bournemouth).
+49:43 Event: Yellow Card! Adam Smith (Bournemouth) is shown the yellow card for a bad foul.
+49:03 Event: Attempt blocked. Marcus Rashford (Manchester United) right footed shot from outside the box is blocked.
+50:04 Event: Goal! Goal!  Manchester United 2, Bournemouth 0. Luke Shaw (Manchester United) right footed shot from the centre of the box to the bottom left corner. Assisted by Alejandro Garnacho.
+51:48 Event: Foul by Luke Shaw (Manchester United).
+52:52 Event: Ryan Christie (Bournemouth) wins a free kick in the defensive half.
+53:13 Event: Attempt missed. Anthony Martial (Manchester United) header from very close range misses to the left. Assisted by Casemiro with a cross.
+53:58 Event: Delay in match  because of an injury Anthony Martial (Manchester United).
+54:21 Event: Delay over. They are ready to continue.
+55:47 Event: Attempt saved. Philip Billing (Bournemouth) header from the centre of the box is saved in the centre of the goal. Assisted by Adam Smith with a cross.
+56:51 Event: Attempt saved. Dominic Solanke (Bournemouth) header from the centre of the box is saved in the bottom left corner. Assisted by Lewis Cook with a cross.
+57:16 Event: Attempt saved. Jaidon Anthony (Bournemouth) left footed shot from the left side of the box is saved in the top centre of the goal. Assisted by Philip Billing.
+57:50 Event: Foul by Christian Eriksen (Manchester United).
+58:17 Event: Philip Billing (Bournemouth) wins a free kick in the defensive half.
+59:25 Event: Substitution Substitution, Bournemouth. Jack Stacey replaces Adam Smith.
+60:07 Event: Corner,  Bournemouth. Conceded by Aaron Wan-Bissaka.
+60:13 Event: Foul by Lloyd Kelly (Bournemouth).
+61:43 Event: Harry Maguire (Manchester United) wins a free kick in the defensive half.
+62:03 Event: Foul by Luke Shaw (Manchester United).
+63:51 Event: Ryan Christie (Bournemouth) wins a free kick in the attacking half.
+64:09 Event: Substitution Substitution, Manchester United. Fred replaces Christian Eriksen.
+64:45 Event: Substitution Substitution, Manchester United. Diogo Dalot replaces Aaron Wan-Bissaka.
+65:54 Event: Substitution Substitution, Manchester United. Anthony Elanga replaces Anthony Martial.
+66:42 Event: Foul by Casemiro (Manchester United).
+67:39 Event: Dominic Solanke (Bournemouth) wins a free kick on the left wing.
+68:56 Event: Attempt missed. Marcus Rashford (Manchester United) right footed shot from outside the box misses to the left. Assisted by Bruno Fernandes.
+68:23 Event: Attempt blocked. Alejandro Garnacho (Manchester United) right footed shot from outside the box is blocked. Assisted by Luke Shaw.
+69:26 Event: Alejandro Garnacho (Manchester United) wins a free kick on the left wing.
+70:26 Event: Foul by Jack Stacey (Bournemouth).
+71:48 Event: Yellow Card! Jack Stacey (Bournemouth) is shown the yellow card for a bad foul.
+71:35 Event: Substitution Substitution, Bournemouth. Siriki Dembélé replaces Ryan Christie.
+72:35 Event: Substitution Substitution, Bournemouth. Kieffer Moore replaces Philip Billing.
+73:50 Event: Attempt missed. Bruno Fernandes (Manchester United) right footed shot from outside the box is too high. Assisted by Diogo Dalot.
+74:28 Event: Alejandro Garnacho (Manchester United) hits the right post with a right footed shot from the left side of the box. Assisted by Fred.
+75:06 Event: Attempt blocked. Anthony Elanga (Manchester United) right footed shot from the right side of the box is blocked. Assisted by Bruno Fernandes.
+75:49 Event: Jaidon Anthony (Bournemouth) wins a free kick in the defensive half.
+76:22 Event: Foul by Anthony Elanga (Manchester United).
+77:38 Event: Attempt saved. Diogo Dalot (Manchester United) right footed shot from the right side of the box is saved in the top centre of the goal. Assisted by Fred.
+78:49 Event: Corner,  Manchester United. Conceded by Mark Travers.
+79:39 Event: Attempt saved. Alejandro Garnacho (Manchester United) left footed shot from the left side of the box is saved in the bottom left corner. Assisted by Bruno Fernandes.
+79:43 Event: Corner,  Manchester United. Conceded by Chris Mepham.
+80:49 Event: Attempt blocked. Diogo Dalot (Manchester United) left footed shot from outside the box is blocked.
+81:08 Event: Attempt missed. Jaidon Anthony (Bournemouth) left footed shot from the left side of the box is close, but misses to the right. Assisted by Dominic Solanke.
+82:22 Event: Substitution Substitution, Bournemouth. Joe Rothwell replaces Jefferson Lerma.
+82:31 Event: Attempt saved. Bruno Fernandes (Manchester United) right footed shot from the right side of the box is saved in the bottom right corner. Assisted by Marcus Rashford.
+83:13 Event: Corner,  Manchester United. Conceded by Mark Travers.
+84:27 Event: Goal! Goal!  Manchester United 3, Bournemouth 0. Marcus Rashford (Manchester United) left footed shot from the left side of the six yard box to the bottom left corner. Assisted by Bruno Fernandes.
+85:09 Event: Substitution Substitution, Manchester United. Lisandro Martínez replaces Victor Lindelöf.
+86:21 Event: Corner,  Manchester United. Conceded by Jack Stacey.
+86:05 Event: Corner,  Manchester United. Conceded by Chris Mepham.
+87:33 Event: Attempt saved. Jaidon Anthony (Bournemouth) left footed shot from the left side of the box is saved in the top centre of the goal.
+88:24 Event: Corner,  Bournemouth. Conceded by David de Gea.
+89:07 Event: Second Half ends, Manchester United 3, Bournemouth 0.
+90:07 Event: Full-time Match ends, Manchester United 3, Bournemouth 0.
+90:00 EndGame:
+90:00 team1Subs: Tom Heaton
+90:00 team1Subs: Lisandro Martínez
+90:00 team1Subs: Tyrell Malacia
+90:00 team1Subs: Raphaël Varane
+90:00 team1Subs: Diogo Dalot
+90:00 team1Subs: Fred
+90:00 team1Subs: Scott McTominay
+90:00 team1Subs: Anthony Elanga
+90:00 team1Subs: Alejandro Garnacho
+90:00 team2Subs: Cameron Plain
+90:00 team2Subs: Jack Stephens
+90:00 team2Subs: Jack Stacey
+90:00 team2Subs: Jordan Zemura
+90:00 team2Subs: Joe Rothwell
+90:00 team2Subs: Siriki Dembélé
+90:00 team2Subs: Ben Pearson
+90:00 team2Subs: Jamal Lowe
+90:00 team2Subs: Kieffer Moore
+90:00 team1Stat: possession% 58.5
+90:00 team1Stat: shotsontarget 6
+90:00 team1Stat: shots 18
+90:00 team1Stat: touches 731
+90:00 team1Stat: passes 579
+90:00 team1Stat: tackels 9
+90:00 team1Stat: clearances 11
+90:00 team1Stat: corners 6
+90:00 team1Stat: offsides 0
+90:00 team1Stat: yellowcards 0
+90:00 team1Stat: foulconceded 13
+90:00 team2Stat: possession% 41.5
+90:00 team2Stat: shotsontarget 4
+90:00 team2Stat: shots 7
+90:00 team2Stat: touches 579
+90:00 team2Stat: passes 406
+90:00 team2Stat: tackels 18
+90:00 team2Stat: clearances 19
+90:00 team2Stat: corners 5
+90:00 team2Stat: offsides 2
+90:00 team2Stat: yellowcards 3
+90:00 team2Stat: foulconceded 7
+90:00 Exit
+90:00 ------------------------------------------------------------
+0:00 ------------------------------------------------------------
+0:00 GameInit: Brentford vs Liverpool - Matchweek 19
+0:00 team1Startings: David Raya
+0:00 team1Startings: Ethan Pinnock
+0:00 team1Startings: Zanka
+0:00 team1Startings: Ben Mee
+0:00 team1Startings: Rico Henry
+0:00 team1Startings: Christian Nørgaard
+0:00 team1Startings: Mathias Jensen
+0:00 team1Startings: Vitaly Janelt
+0:00 team1Startings: Mads Roerslev
+0:00 team1Startings: Yoane Wissa
+0:00 team1Startings: Bryan Mbeumo
+0:00 team2Startings: Alisson
+0:00 team2Startings: Virgil van Dijk
+0:00 team2Startings: Ibrahima Konaté
+0:00 team2Startings: Konstantinos Tsimikas
+0:00 team2Startings: Trent Alexander-Arnold
+0:00 team2Startings: Fabinho
+0:00 team2Startings: Thiago
+0:00 team2Startings: Harvey Elliott
+0:00 team2Startings: Mohamed Salah
+0:00 team2Startings: Alex Oxlade-Chamberlain
+0:00 team2Startings: Darwin Núñez
+0:00 GameBegin:
+0:22 Event: Lineups are announced and players are warming up.
+0:22 Event: Kick Off! First Half begins.
+2:47 Event: Darwin Núñez (Liverpool) wins a free kick in the attacking half.
+3:12 Event: Foul by Zanka (Brentford).
+4:14 Event: Yellow Card! Zanka (Brentford) is shown the yellow card for a bad foul.
+5:58 Event: Attempt blocked. Darwin Núñez (Liverpool) with an attempt from the centre of the box is blocked. Assisted by Konstantinos Tsimikas.
+6:46 Event: Corner,  Liverpool. Conceded by Ethan Pinnock.
+7:13 Event: Offside, Liverpool. Harvey Elliott tries a through ball, but Virgil van Dijk is caught offside.
+8:21 Event: Attempt blocked. Darwin Núñez (Liverpool) left footed shot from the left side of the six yard box is blocked. Assisted by Mohamed Salah with a through ball.
+9:18 Event: Rico Henry (Brentford) wins a free kick in the defensive half.
+10:41 Event: Foul by Harvey Elliott (Liverpool).
+11:01 Event: Yellow Card! Harvey Elliott (Liverpool) is shown the yellow card for a bad foul.
+12:59 Event: Christian Nørgaard (Brentford) wins a free kick in the defensive half.
+12:43 Event: Foul by Alex Oxlade-Chamberlain (Liverpool).
+14:54 Event: Attempt saved. Vitaly Janelt (Brentford) left footed shot from outside the box is saved in the bottom right corner.
+15:50 Event: Offside, Brentford. Christian Nørgaard tries a through ball, but Yoane Wissa is caught offside.
+16:22 Event: Attempt missed. Bryan Mbeumo (Brentford) header from the right side of the six yard box misses to the right. Assisted by Rico Henry with a cross.
+17:18 Event: Attempt saved. Bryan Mbeumo (Brentford) left footed shot from the centre of the box is saved in the bottom right corner. Assisted by Yoane Wissa with a through ball.
+18:15 Event: Corner,  Brentford. Conceded by Alisson.
+19:39 Event: Own Goal! Own Goal by Ibrahima Konaté, Liverpool.  Brentford 1, Liverpool 0.Goal confirmed following VAR Review.
+20:12 Event: VAR Decision: Goal Liverpool -  Brentford 1-0 Liverpool (Ibrahima Konaté).
+21:26 Event: Attempt missed. Alex Oxlade-Chamberlain (Liverpool) right footed shot from the centre of the box misses to the right.
+22:02 Event: Attempt saved. Konstantinos Tsimikas (Liverpool) left footed shot from the centre of the box is saved in the bottom left corner. Assisted by Alex Oxlade-Chamberlain.
+23:17 Event: Corner,  Liverpool. Conceded by Vitaly Janelt.
+24:05 Event: Attempt blocked. Konstantinos Tsimikas (Liverpool) left footed shot from the left side of the box is blocked. Assisted by Alex Oxlade-Chamberlain.
+25:31 Event: Attempt blocked. Mathias Jensen (Brentford) right footed shot from the right side of the box is blocked.
+25:51 Event: Corner,  Brentford. Conceded by Fabinho.
+27:48 Event: Attempt saved. Christian Nørgaard (Brentford) header from a difficult angle on the right is saved in the centre of the goal. Assisted by Bryan Mbeumo with a cross.
+28:54 Event: Attempt saved. Ethan Pinnock (Brentford) left footed shot from very close range is saved in the centre of the goal.
+29:24 Event: Offside, Brentford. Ethan Pinnock tries a through ball, but Yoane Wissa is caught offside.
+30:46 Event: Attempt saved. Ethan Pinnock (Brentford) header from very close range is saved in the centre of the goal.
+31:45 Event: Offside, Brentford. Ben Mee tries a through ball, but Yoane Wissa is caught offside.
+32:44 Event: Corner,  Liverpool. Conceded by Ethan Pinnock.
+33:33 Event: Attempt blocked. Ibrahima Konaté (Liverpool) header from the centre of the box is blocked. Assisted by Konstantinos Tsimikas with a cross.
+34:12 Event: Attempt saved. Alex Oxlade-Chamberlain (Liverpool) right footed shot from outside the box is saved in the centre of the goal. Assisted by Harvey Elliott with a headed pass.
+35:53 Event: Offside, Brentford. Vitaly Janelt tries a through ball, but Yoane Wissa is caught offside.
+36:46 Event: Corner,  Brentford. Conceded by Konstantinos Tsimikas.
+37:35 Event: GOAL OVERTURNED BY VAR: Yoane Wissa (Brentford) scores but the goal is ruled out after a VAR review.
+38:34 Event: Attempt missed. Yoane Wissa (Brentford) right footed shot from the centre of the box misses to the right. Assisted by Bryan Mbeumo with a cross following a corner.
+39:51 Event: Offside, Brentford. Yoane Wissa tries a through ball, but Ben Mee is caught offside.
+40:01 Event: VAR Decision: No Goal  Brentford 1-0 Liverpool.
+41:54 Event: Goal! Goal!  Brentford 2, Liverpool 0. Yoane Wissa (Brentford) header from the centre of the box to the bottom left corner. Assisted by Mathias Jensen with a cross.
+42:42 Event: Attempt saved. Konstantinos Tsimikas (Liverpool) header from the centre of the box is saved in the bottom left corner. Assisted by Harvey Elliott with a cross.
+43:30 Event: Thiago (Liverpool) wins a free kick in the defensive half.
+44:15 Event: Foul by Mathias Jensen (Brentford).
+45:15 Event: Half-time First Half ends, Brentford 2, Liverpool 0.
+46:47 Event: Substitution Substitution, Liverpool. Andrew Robertson replaces Konstantinos Tsimikas.
+46:47 Event: Kick Off! Second Half begins Brentford 2, Liverpool 0.
+48:33 Event: Substitution Substitution, Liverpool. Joël Matip replaces Virgil van Dijk.
+49:27 Event: Substitution Substitution, Liverpool. Naby Keïta replaces Harvey Elliott.
+50:00 Event: Corner,  Liverpool. Conceded by Ethan Pinnock.
+50:44 Event: Offside, Liverpool. Alex Oxlade-Chamberlain tries a through ball, but Ibrahima Konaté is caught offside.
+51:09 Event: Offside, Liverpool. Thiago tries a through ball, but Darwin Núñez is caught offside.
+52:43 Event: GOAL OVERTURNED BY VAR: Darwin Núñez (Liverpool) scores but the goal is ruled out after a VAR review.
+53:58 Event: VAR Decision: No Goal  Brentford 2-0 Liverpool.
+54:36 Event: Goal! Goal!  Brentford 2, Liverpool 1. Alex Oxlade-Chamberlain (Liverpool) header from the centre of the box to the bottom left corner. Assisted by Trent Alexander-Arnold with a cross.
+54:44 Event: Corner,  Brentford. Conceded by Darwin Núñez.
+55:33 Event: Attempt saved. Fabinho (Liverpool) right footed shot from outside the box is saved in the bottom left corner. Assisted by Thiago.
+56:56 Event: Foul by Thiago (Liverpool).
+57:07 Event: Yoane Wissa (Brentford) wins a free kick in the defensive half.
+58:30 Event: Yellow Card! Thiago (Liverpool) is shown the yellow card for a bad foul.
+59:51 Event: Offside, Brentford. Vitaly Janelt tries a through ball, but Zanka is caught offside.
+59:25 Event: Attempt blocked. Thiago (Liverpool) right footed shot from outside the box is blocked.
+60:00 Event: Attempt blocked. Thiago (Liverpool) right footed shot from outside the box is blocked.
+61:14 Event: Corner,  Liverpool. Conceded by Christian Nørgaard.
+62:21 Event: Christian Nørgaard (Brentford) wins a free kick in the defensive half.
+63:39 Event: Foul by Naby Keïta (Liverpool).
+63:19 Event: Hand ball by Vitaly Janelt (Brentford).
+64:52 Event: Corner,  Liverpool. Conceded by Vitaly Janelt.
+65:53 Event: Attempt missed. Darwin Núñez (Liverpool) right footed shot from the right side of the box misses to the left. Assisted by Mohamed Salah.
+66:32 Event: Corner,  Liverpool. Conceded by Mads Roerslev.
+67:48 Event: Mads Roerslev (Brentford) wins a free kick in the defensive half.
+68:25 Event: Foul by Darwin Núñez (Liverpool).
+68:43 Event: Yellow Card! Darwin Núñez (Liverpool) is shown the yellow card.
+69:04 Event: Substitution Substitution, Brentford. Josh Dasilva replaces Mathias Jensen.
+70:08 Event: Substitution Substitution, Brentford. Keane Lewis-Potter replaces Yoane Wissa.
+71:11 Event: Foul by Thiago (Liverpool).
+72:03 Event: Josh Dasilva (Brentford) wins a free kick in the defensive half.
+72:03 Event: Offside, Liverpool. Fabinho tries a through ball, but Darwin Núñez is caught offside.
+73:52 Event: Attempt blocked. Mohamed Salah (Liverpool) left footed shot from the right side of the box is blocked. Assisted by Naby Keïta.
+74:04 Event: Corner,  Liverpool. Conceded by Ben Mee.
+75:27 Event: Corner,  Liverpool. Conceded by Rico Henry.
+76:12 Event: Attempt missed. Ibrahima Konaté (Liverpool) header from the centre of the box is close, but misses to the left. Assisted by Trent Alexander-Arnold with a cross following a corner.
+76:16 Event: Rico Henry (Brentford) wins a free kick in the defensive half.
+77:47 Event: Foul by Fabinho (Liverpool).
+78:42 Event: Substitution Substitution, Liverpool. Curtis Jones replaces Alex Oxlade-Chamberlain.
+79:31 Event: Goal! Goal!  Brentford 3, Liverpool 1. Bryan Mbeumo (Brentford) left footed shot from the centre of the box to the centre of the goal    following a fast break.
+80:25 Event: Substitution Substitution, Brentford. Saman Ghoddos replaces Vitaly Janelt because of an injury.
+81:49 Event: Substitution Substitution, Brentford. Sergi Canós replaces Bryan Mbeumo.
+81:20 Event: Attempt blocked. Naby Keïta (Liverpool) right footed shot from the centre of the box is blocked.
+82:18 Event: Joël Matip (Liverpool) wins a free kick in the defensive half.
+83:33 Event: Foul by Sergi Canós (Brentford).
+84:32 Event: Foul by Fabinho (Liverpool).
+85:48 Event: Saman Ghoddos (Brentford) wins a free kick in the attacking half.
+85:13 Event: Curtis Jones (Liverpool) wins a free kick in the defensive half.
+86:52 Event: Foul by Zanka (Brentford).
+87:26 Event: Substitution Substitution, Brentford. Mads Bech Sørensen replaces Rico Henry.
+88:16 Event: Offside, Brentford. Zanka tries a through ball, but Keane Lewis-Potter is caught offside.
+89:25 Event: Second Half ends, Brentford 3, Liverpool 1.
+90:25 Event: Full-time Match ends, Brentford 3, Liverpool 1.
+90:00 EndGame:
+90:00 team1Subs: Thomas Strakosha
+90:00 team1Subs: Mads Bech Sørensen
+90:00 team1Subs: Tristan Crama
+90:00 team1Subs: Josh Dasilva
+90:00 team1Subs: Mikkel Damsgaard
+90:00 team1Subs: Ryan Trevitt
+90:00 team1Subs: Sergi Canós
+90:00 team1Subs: Saman Ghoddos
+90:00 team1Subs: Keane Lewis-Potter
+90:00 team2Subs: Caoimhín Kelleher
+90:00 team2Subs: Joe Gomez
+90:00 team2Subs: Andrew Robertson
+90:00 team2Subs: Joël Matip
+90:00 team2Subs: Stefan Bajcetic
+90:00 team2Subs: Nathaniel Phillips
+90:00 team2Subs: Naby Keïta
+90:00 team2Subs: Curtis Jones
+90:00 team2Subs: Fábio Carvalho
+90:00 team1Stat: possession% 27
+90:00 team1Stat: shotsontarget 7
+90:00 team1Stat: shots 10
+90:00 team1Stat: touches 432
+90:00 team1Stat: passes 237
+90:00 team1Stat: tackels 17
+90:00 team1Stat: clearances 37
+90:00 team1Stat: corners 4
+90:00 team1Stat: offsides 7
+90:00 team1Stat: yellowcards 1
+90:00 team1Stat: foulconceded 5
+90:00 team2Stat: possession% 73
+90:00 team2Stat: shotsontarget 6
+90:00 team2Stat: shots 16
+90:00 team2Stat: touches 857
+90:00 team2Stat: passes 652
+90:00 team2Stat: tackels 9
+90:00 team2Stat: clearances 15
+90:00 team2Stat: corners 9
+90:00 team2Stat: offsides 4
+90:00 team2Stat: yellowcards 3
+90:00 team2Stat: foulconceded 8
+90:00 Exit
+90:00 ------------------------------------------------------------
